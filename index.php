@@ -69,7 +69,7 @@
             <?php  }
             }
         ?> <!-- tutup php bawah -->
-            </div>
+                </div>
             </div>
         </div>  
     </main>
